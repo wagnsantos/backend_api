@@ -1,4 +1,4 @@
-# API para Livraria - JavaScript
+# API para Livraria - TypeScript
 
 ## **Descrição**
 
